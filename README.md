@@ -13,7 +13,7 @@ https://www.kaggle.com/c/learn-ai-bbc/overview
 
 ## Methodology
 
-To achieve my classification goals, I will explore multiple supervised machine learning algorithms, including but not limited to decision trees, support vector machines, and linear regression. By comparing the performance of these models, I aim to identify the most effective approach for accurately classifying news articles by theme. Additionally, I will implement techniques such as feature extraction and natural language processing to enhance model performance and ensure robust classification.
+To achieve my classification goals, I will explore multiple supervised and unsupervised machine learning algorithms, including but not limited to random forest, Non-negative matrix factorization, and linear regression. By comparing the performance of these models, I aim to identify the most effective approach for accurately classifying news articles by category. Additionally, I will implement techniques such as feature extraction and natural language processing to enhance model performance and ensure robust classification.
 
 ## Conclusion
 
